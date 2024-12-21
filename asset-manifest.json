@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abhisheks-gaming-jouney/static/css/main.3c7fbbe8.css",
+    "main.js": "/abhisheks-gaming-jouney/static/js/main.cfb9d4b2.js",
+    "static/js/488.cccc4fdf.chunk.js": "/abhisheks-gaming-jouney/static/js/488.cccc4fdf.chunk.js",
+    "index.html": "/abhisheks-gaming-jouney/index.html",
+    "main.3c7fbbe8.css.map": "/abhisheks-gaming-jouney/static/css/main.3c7fbbe8.css.map",
+    "main.cfb9d4b2.js.map": "/abhisheks-gaming-jouney/static/js/main.cfb9d4b2.js.map",
+    "488.cccc4fdf.chunk.js.map": "/abhisheks-gaming-jouney/static/js/488.cccc4fdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c7fbbe8.css",
+    "static/js/main.cfb9d4b2.js"
+  ]
+}
